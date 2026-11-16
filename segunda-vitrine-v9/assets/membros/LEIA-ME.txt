@@ -1,1 +1,0 @@
-Coloque aqui as fotos dos integrantes (ex.: max.jpg) e ajuste o caminho no array MEMBROS do index.html.
